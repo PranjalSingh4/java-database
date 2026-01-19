@@ -26,6 +26,7 @@ public class Assignment {
 		System.out.println("Enter 1 to perform a Query");
 		System.out.println("Enter 2 to perform a CURD operation");
 		System.out.println("Enter your choice:");
+		System.out.println("Enter your choice:");
 		
 		int choice= sc.nextInt();
 		
